@@ -202,4 +202,6 @@ Here's a common set of CSS properties are provided as a reference to help make c
 --kwes-form--sub-title-color: rgba(0, 0, 0, 0.9);
 ```
 
-Next you can review the _[Form Data](form-data/create-a-form) and examples within_. If you have any questions or get stuck along the way, feel free to email me: [Todd](mailto:todd@icreativepro.com) @ todd@icreativepro.com ✉️
+:::tip
+Next you can review the _[Form Data](form-data/create-a-form) and examples within_.
+:::
